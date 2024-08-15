@@ -4,13 +4,13 @@
   "package": "com.natamus.whatdurability.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
-    "ItemStackMixin"
+	"ItemStackMixin"
   ],
   "client": [
   ],
   "server": [
   ],
   "injectors": {
-    "defaultRequire": 1
+	"defaultRequire": 1
   }
 }
