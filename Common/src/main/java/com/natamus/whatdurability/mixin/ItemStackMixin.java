@@ -9,11 +9,6 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
 
 @Mixin(value = ItemStack.class, priority = 1001)
 public class ItemStackMixin {
-	@Inject(method = "isDamageableItem()Z", at = @At(value = "HEAD"), cancellable = true)
-	public void isDamageableItem(CallbackInfoReturnable<Boolean> cir) {
-		cir.setReturnValue(false);
-	}
-
 	@Inject(method = "isDamaged()Z", at = @At(value = "HEAD"), cancellable = true)
 	public void isDamaged(CallbackInfoReturnable<Boolean> cir) {
 		cir.setReturnValue(false);
