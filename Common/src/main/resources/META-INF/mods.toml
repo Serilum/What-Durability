@@ -6,7 +6,7 @@ logoFile="icon.png"
 
 [[mods]]
 modId="whatdurability"
-version="1.2"
+version="1.3"
 displayName="What Durability?"
 displayURL="https://serilum.com/mod/what-durability"
 authors="Rick South"
@@ -22,7 +22,7 @@ If you would like to contribute too, check out https://serilum.com/donate. Appre
 [[dependencies.whatdurability]]
     modId="collective"
     mandatory=true
-    versionRange="[7.78,)"
+    versionRange="[7.84,)"
     ordering="NONE"
     side="BOTH"
 
