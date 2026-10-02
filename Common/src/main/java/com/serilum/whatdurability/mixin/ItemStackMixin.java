@@ -1,4 +1,4 @@
-package com.natamus.whatdurability.mixin;
+package com.serilum.whatdurability.mixin;
 
 import net.minecraft.world.item.ItemStack;
 import org.spongepowered.asm.mixin.Mixin;

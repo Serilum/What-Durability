@@ -1,4 +1,4 @@
-package com.natamus.whatdurability;
+package com.serilum.whatdurability;
 
 public class ModCommon {
 

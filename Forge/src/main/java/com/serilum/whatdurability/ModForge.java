@@ -1,8 +1,8 @@
-package com.natamus.whatdurability;
+package com.serilum.whatdurability;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.whatdurability.util.Reference;
+import com.serilum.whatdurability.util.Reference;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLLoadCompleteEvent;
