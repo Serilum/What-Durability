@@ -4,7 +4,8 @@
   "package": "com.serilum.whatdurability.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
-	"ItemStackMixin"
+	"ItemStackMixin",
+	"TagLoaderMixin"
   ],
   "client": [
   ],

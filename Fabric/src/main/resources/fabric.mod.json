@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "whatdurability",
-  "version": "2.0",
+  "version": "2.1",
 
   "name": "What Durability?",
   "description": "Removes all durability from items, allowing infinite uses. Similar to Terraria and Stardew Valley.",
